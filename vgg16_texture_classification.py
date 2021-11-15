@@ -2,7 +2,7 @@
 """
 Created on Thu Jun 24 04:36:55 2021
 
-@author: Med Chlif
+@author: ahmed touzani
 """
 
 import numpy as np 
